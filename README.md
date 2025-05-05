@@ -21,7 +21,7 @@ Um bot do Discord para gerenciamento e verificação de redes, que permite escan
 
 1. Clone o repositório
    ```bash
-   git clone https://github.com/seu-usuario/nettracker-bot.git
+   git clone https://github.com/gones75/nettracker-bot.git
    cd nettracker-bot
    ```
 
